@@ -1,12 +1,11 @@
-# This video is about how make a flip card using HTML & CSS.
-_____________________________________________________________________
+# This repository is about how make a flip card using HTML & CSS.
 
 ## Clone the repository
 ```
 $ git clone https://github.com/Senuka072/Flip-card-using-HTML-CSS
 ```
-
-_____________________________________________________________________
+## Subscribe to my YouTube Channel
+* [Subsribe](https://www.youtube.com/c/SenukaThisathFernando)
 
 ## Contact me on:-
 
