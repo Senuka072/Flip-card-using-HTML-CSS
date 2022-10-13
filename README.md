@@ -1,4 +1,4 @@
-# This repository is about how make a flip card using HTML & CSS.
+# This repository is about how to make a flip card using HTML & CSS.
 
 ## Clone the repository
 ```
